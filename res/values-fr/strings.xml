@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MetroMaps</string>
+    <string name="mess_add_bookmark_success">%1$s a été ajouté à vos favoris !</string>
+    <string name="mess_remove_bookmark_success">%1$s a été retiré de vos favoris !</string>
+    
+     <string name="mess_search_hint">Entrez le nom d\'une ville</string>
+    <string name="mess_search_not_found">Ville non trouvée !</string>        
+    <string name="btn_content_desc">Recherche</string>        
+    
+    <string name="country_order">country_order_fr</string>
+    <string name="country_name">country_name_fr</string>
+    <string name="town_name">name_fr</string>
+    <string name="town_order">name_fr</string>
+    
+     <string name="menu_share">Partager</string>
+     <string name="error">Erreur</string>
+     <string name="no_sd_card">Erreur lors du partage de la carte.</string>
+      
+     <string name="share_body">Carte partagée avec %1$s</string>
+     <string name="share_via">Partager via</string>
+     
+     <string name="rate">Evaluer %1$s</string>
+     <string name="rate_message">Si vous aimez utiliser %1$s, prenez du temps pour l\'évaluer SVP. Merci pour votre soutien !</string>
+     <string name="rate_later">Me le rappeler plus tard</string>
+     <string name="rate_no">Non, merci</string>
+     
+     <string name="menu_more_app">Plus d\'apps !</string>
+     
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MetroMaps</string>
+    <string name="mess_add_bookmark_success">%1$s zu den Favoriten hinzugefügt!</string>
+    <string name="mess_remove_bookmark_success">%1$s von den Favoriten entfernt!</string>
+    
+     <string name="mess_search_hint">Geben Sie eine Stadt an</string>
+    <string name="mess_search_not_found">Stadt nicht gefunden!</string>        
+    <string name="btn_content_desc">Suchen</string>        
+    
+    <string name="country_order">country_order_de</string>
+    <string name="country_name">country_name_de</string>
+    <string name="town_name">name_de</string>
+    <string name="town_order">name_de</string>
+    
+    <string name="menu_share">Teilen</string>
+    <string name="error">Fehler</string>
+    <string name="no_sd_card">Fehler während des Teilens.</string>
+     
+    <string name="share_body">U-Bahn Plan mit %1$s geteilt</string>
+    <string name="share_via">Teilen via</string>
+    
+     <string name="rate">%1$s bewerten</string>
+     <string name="rate_message">Wenn Ihnen %1$s gefällt, nehmen Sie sich einen Moment, um es zu bewerten, Vielen Dank für Ihre Unterstützung!</string>
+     <string name="rate_later">Später erinnern</string>
+     <string name="rate_no">Nein, danke</string>
+     
+     <string name="menu_more_app">Mehr Apps!</string>
+</resources>

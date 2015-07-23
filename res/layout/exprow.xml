@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_height="wrap_content" android:id="@+id/rowLayout"
+	android:orientation="horizontal" android:layout_width="fill_parent">
+
+	<TextView android:layout_width="fill_parent" android:layout_alignParentLeft="true"
+		android:layout_height="wrap_content" android:id="@+id/twname" 
+		android:paddingLeft="8dp"
+		android:paddingTop="8dp"
+		android:gravity="center_vertical"/>
+	
+	 <CheckBox
+        android:id="@+id/btn_star"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:button="@android:drawable/btn_star" 
+        android:layout_alignParentRight="true"
+        android:focusable="false"/>	
+</RelativeLayout>

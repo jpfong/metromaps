@@ -1,0 +1,147 @@
+﻿1;Beijing;Pékin;北京;北京;14;﻿Beijing;﻿Pequim;﻿베이징;﻿北京;﻿Peking;1;﻿39.904;﻿116.408
+2;Changchun;Changchun;长春;長春;28;Changchun;Changchun;장춘;チャンチュン;Changchun;1;43.817;125.323
+3;Chengdu;Chengdu;成都;成都;29;Chengdu;Chengdu;청두;成都;Chengdu;1;30.659;104.065
+4;Chongqing;Chongqing;重庆;重慶;30;Chongqing;Chongqing;충칭;重慶市;Chongqing;1;29.563;106.552
+5;Dalian;Dalian;大连;大連;32;Dalian;Dalian;대련;大連;Dalian;1;38.914;121.615
+6;Guangzhou;Canton;广州;廣州;51;Guangzhou;Guangzhou;광주;広州;Guangzhou;1;23.129;113.264
+7;Nanjing;Nankin;南京;南京;101;Nanjing;Nanquim;난징;南京;Nanjing;1;32.06;118.796
+8;Shanghai;Shanghai;上海;上海;111;Shanghai;Xangai;상하이;上海;Shanghai;1;31.23;121.474
+9;Shenyang;Shenyang;沈阳;沈陽;118;Shenyang;Shenyang;심양;瀋陽;Shenyang;1;41.806;123.431
+10;Shenzhen;Shenzhen;深圳;深圳;119;Shenzhen;Shenzhen;심천;シンセン;Shenzhen;1;22.543;114.058
+11;Tianjin;Tianjin;天津;天津;128;Tianjin;Tianjin;천진;天津;Tianjin;1;39.084;117.201
+12;Wuhan;Wuhan;武汉;武漢;133;Wuhan;Wuhan;무한;武漢;Wuhan;1;30.593;114.305
+13;Xi'an;Xi'an;西安;西安;134;Xi'an;Xian;시안;西安;Xi'an;1;34.342;108.94
+14;Montréal;Montréal;蒙特利尔;蒙特利爾;92;Montreal;Montréal;몬트리올;モントリオール;Montréal;2;45.509;-73.554
+15;Toronto;Toronto;多伦多;多倫多;38;Toronto;Toronto;토론토;トロント;Toronto;2;43.653;-79.383
+16;Paris;Paris;巴黎;巴黎;11;París;Paris;파리;パリ;Paris;3;48.857;2.352
+17;London;Londres;伦敦;倫敦;77;Londres;Londres;런던;ロンドン;London;4;51.507;-0.127
+18;Brussels;Bruxelles;布鲁塞尔;布魯塞爾;26;Bruselas;Bruxelas;브뤼셀;ブリュッセル;Brüssel;5;50.85;4.352
+19;Charleroi;Charleroi;沙勒罗瓦;沙勒羅瓦;110;Charleroi;Charleroi;샬로;シャルルロア;Charleroi;5;50.411;4.445
+20;Barcelona;Barcelone;巴塞罗那;巴塞羅那;12;Barcelona;Barcelona;바르셀로나;バルセロナ;Barcelona;6;41.388;2.17
+21;Bilbao;Bilbao;毕尔巴鄂;畢爾巴鄂;16;Bilbao;Bilbao;빌바오;ビルバオ;Bilbao;6;43.257;-2.924
+22;Madrid;Madrid;马德里;馬德里;82;Madrid;Madri;마드리드;マドリード;Madrid;6;40.417;-3.704
+23;Seville;Séville;塞维利亚;塞維利亞;108;Sevilla;Sevilha;세비야;セビリア;Sevilla;6;37.388;-5.982
+24;Moscow;Moscou;莫斯科;莫斯科;96;Moscú;Moscou;모스크바;モスクワ;Moskau;7;55.743;37.615
+25;Vienna;Vienne;维也纳;維也納;131;Viena;Viena;비엔나;ウイーン;Wien;8;48.208;16.374
+26;Berlin;Berlin;柏林;柏林;19;Berlín;Berlin;베를린;ベルリン;Berlin;9;52.519;13.406
+27;Frankfurt am Main;Francfort-sur-le-Main;美因河畔法兰克福;美因河畔法蘭克福;89;Frankfurt del Meno;Frankfurt;프랑크푸르트;フランクフルトアムマイン;Frankfurt am Main;9;50.111;8.682
+28;Hamburg;Hambourg;汉堡;漢堡;52;Hamburgo;Hamburgo;함부르크;ハンブルク;Hamburg;9;53.551;9.994
+29;Hannover;Hanovre;汉诺威;漢諾威;54;Hannover;Hanover;하노버;ハノーバー;Hannover;9;52.376;9.732
+30;Munich;Munich;慕尼黑;慕尼黑;98;Munich;Munique;뮌헨;ミュンヘン;München;9;48.137;11.577
+31;Nuremberg;Nuremberg;纽伦堡;紐倫堡;103;Nuremberg;Nuremberg;뉘른베르크;ニュルンベルク;Nürnberg;9;49.452;11.077
+32;Stuttgart;Stuttgart;斯图加特;斯圖加特;123;Stuttgart;Stuttgart;슈투트가르트;シュトゥットガルト;Stuttgart;9;48.775;9.182
+33;Yerevan;Erevan;埃里温;埃里溫;3;Yerevan;Yerevan;예레반;エレバン;Yerevan;10;40.183;44.517
+34;Amsterdam;Amsterdam;阿姆斯特丹;阿姆斯特丹;5;Amsterdam;Amsterdã;암스테르담;アムステルダム;Amsterdam;11;52.37;4.895
+35;Rotterdam;Rotterdam;鹿特丹;鹿特丹;81;Rotterdam;Roterdã;로테르담;ロッテルダム;Rotterdam;11;51.924;4.482
+36;Sofia;Sofia;索非亚;索非亞;125;Sofía;Sofia;소피아;ソフィア;Sofia;12;42.696;23.326
+37;Prague;Prague;布拉格;布拉格;24;Praga;Praga;프라하;プラハ;Prag;13;50.076;14.438
+38;Rome;Rome;罗马;羅馬;78;Roma;Roma;로마;ローマ;Rom;14;41.891;12.494
+39;Milan;Milan;米兰;米蘭;93;Milán;Milão;밀라노;ミラノ;Milan;14;45.465;9.187
+40;Turin;Turin;都灵;都靈;37;Turín;Turin;토리노;トゥーリン;Turin;14;45.071;7.684
+41;Hong Kong;Hong Kong;香港;香港;135;Hong Kong;Hong Kong;홍콩;香港;Hong Kong;15;22.396;114.109
+42;Busan;Busan;釜山;釜山;43;Busan;Busan;부산;釜山;Busan;16;35.18;129.076
+43;Daegu;Daegu;大邱;大邱;33;Daegu;Daegu;대구;大邱;Daegu;16;35.871;128.601
+44;Daejeon;Daejeon;大田;大田;34;Daejeon;Daejeon;대전;大田;Daejeon;16;36.35;127.385
+45;Gwangju;Gwangju;光州;光州;50;Gwangju;Gwangju;광주;光州;Gwangju;16;35.16;126.853
+46;Seoul;Séoul;首尔;首爾;120;Seúl;Seul;서울;ソウル;Seoul;16;37.567;126.978
+47;Kaohsiung;Kaohsiung;高雄;高雄;45;Kaohsiung;Kaohsiung;가오슝;高雄;Kaohsiung;17;23.011;120.666
+48;Taipei;Taipei;台北;台北;127;Taipei;Taipei;타이페이;台北;Taipei;17;25.091;121.56
+49;Bangkok;Bangkok;曼谷;曼谷;86;Bangkok;Bangkok;방콕;バンコク;Bangkok;18;13.752;100.494
+50;Helsinki;Helsinki;赫尔辛基;赫爾辛基;55;Helsinki;Helsinque;헬싱키;ヘルシンキ;Helsinki;19;60.17;24.939
+51;Ankara;Ankara;安卡拉;安卡拉;6;Ankara;Ancara;앙카라;アンカラ;Ankara;20;39.921;32.854
+52;Izmir;Izmir;伊兹密尔;伊茲密爾;145;Izmir;Esmirna;이즈미르;イズミル;Izmir;20;38.419;27.129
+53;Adana;Adana;阿达纳;阿達納;1;Adana;Adana;아다;アダナ;Adana;20;37;35.321
+54;Bursa;Bursa;布尔萨;布爾薩;21;Bolsa;Bursa;부르사;ブルサ;Bursa;20;40.267;29.063
+55;Istanbul;Istanbul;伊斯坦布尔;伊斯坦布爾;144;Estanbul;Istambul;이스탄불;イスタンブール;Istanbul;20;41.005;28.977
+56;Copenhagen;Copenhague;哥本哈根;哥本哈根;46;Copenhague;Copenhague;코펜하겐;コペンハーゲン;Kopenhagen;21;55.676;12.568
+57;Lisbon;Lisbonne;里斯本;里斯本;73;Lisboa;Lisboa;리스본;リスボン;Lissabon;22;38.725;-9.15
+58;Porto;Porto;波尔图;波爾圖;18;Porto;Porto;포르투;ポルト;Porto;22;41.15;-8.61
+59;Warsaw;Varsovie;华沙;華沙;57;Varsovia;Varsóvia;바르샤바;ワルシャワ;Warschau;23;52.23;21.012
+60;Oslo;Oslo;奥斯陆;奧斯陸;9;Oslo;Oslo;오슬로;オスロ;Oslo;24;59.914;10.752
+61;Budapest;Budapest;布达佩斯;布達佩斯;22;Budapest;Budapeste;부다페스트;ブダペスト;Budapest;25;47.498;19.04
+62;Bucharest;Bucarest;布加勒斯特;布加勒斯特;23;Bucarest;Bucareste;부카레스트;ブカレスト;Bukarest;26;44.433;26.104
+63;Stockholm;Stockholm;斯德哥尔摩;斯德哥爾摩;121;Estocolmo;Estocolmo;스톡홀름;ストックホルム;Stockholm;27;59.329;18.065
+64;Rouen;Rouen;鲁昂;魯昂;76;Rouen;Rouen;루앙;ルーアン;Rouen;3;49.443;1.1
+65;Atlanta;Atlanta;亚特兰大;亞特蘭大;143;Atlanta;Atlanta;애틀랜타;アトランタ;Atlanta;28;33.749;-84.388
+66;Baltimore;Baltimore;巴尔的摩;巴爾的摩;10;Baltimore;Baltimore;볼티모어;ボルチモア;Baltimore;28;39.29;-76.612
+67;Boston;Boston;波士顿;波士頓;20;Boston;Boston;보스턴;ボストン;Boston;28;42.358;-71.06
+68;Chicago;Chicago;芝加哥;芝加哥;147;Chicago;Chicago;시카고;シカゴ;Chicago;28;41.878;-87.63
+69;Cleveland;Cleveland;克利夫兰;克利夫蘭;65;Cleveland;Cleveland;클리블랜드;クリーブランド;Cleveland;28;41.499;-81.695
+70;Houston;Houston;休斯顿;休斯頓;140;Houston;Houston;휴스턴;ヒューストン;Houston;28;29.76;-95.369
+71;Las Vegas;Las Vegas;拉斯维加斯;拉斯維加斯;67;Las Vegas;Las Vegas;라스베가스;ラスベガス;Las Vegas;28;36.115;-115.173
+72;Los Angeles;Los Angeles;洛杉矶;洛杉磯;80;Los Ángeles;Los Angeles;로스앤젤레스;ロサンゼルス;Los Angeles;28;34.052;-118.244
+73;Miami;Miami;迈阿密;邁阿密;83;Miami;Miami;마이애미;マイアミ;Miami;28;25.789;-80.226
+74;New York;New York;纽约;紐約;104;Nueva York;Nova York;뉴욕;ニューヨーク;New York;28;40.714;-74.006
+75;Philadelphia;Philadelphia;费城;費城;40;Filadelfia;Filadélfia;필라델피아;フィラデルフィア;Philadelphia;28;39.952;-75.164
+76;Phoenix;Phoenix;凤凰;鳳凰;41;Phoenix;Phoenix;피닉스;フェニックス;Phoenix;28;33.448;-112.074
+77;Sacramento;Sacramento;萨克拉门托;薩克拉門托;109;Sacramento;Sacramento;새크라멘토;サクラメント;Sacramento;28;38.582;-121.494
+78;San Diego;San Diego;圣地亚哥;聖地亞哥;114;San Diego;San Diego;샌디에고;サンディエゴ;San Diego;28;32.715;-117.157
+79;San Francisco;San Francisco;旧金山;舊金山;63;San Francisco;São Francisco;샌프란시스코;サンフランシスコ;San Francisco;28;37.775;-122.419
+80;Seattle;Seattle;西雅图;西雅圖;141;Seattle;Seattle;시애틀;シアトル;Seattle;28;47.606;-122.332
+81;Washington, D.C.;Washington, D.C.;华盛顿哥伦比亚特区;華盛頓哥倫比亞特區;58;Washington, D.C.;Washington, D.C.;워싱턴 D.C.;ワシントンD.C.;Washington, Gleichstrom;28;38.907;-77.036
+82;Bordeaux;Bordeaux;波尔多;波爾多;17;Burdeos;Bordeaux;보르도;ボルドー;Bordeaux;3;44.838;-0.579
+83;Grenoble;Grenoble;格勒诺布尔;格勒諾布爾;47;Grenoble;Grenoble;그르노블;グルノーブル;Grenoble;3;45.189;5.725
+84;Lille;Lille;里尔;里爾;71;Lille;Lille;릴리;リール;Lille;3;50.629;3.057
+85;Lyon;Lyon;里昂;里昂;70;Lyon;Lyon;리옹;リヨン;Lyon;3;45.764;4.836
+86;Marseille;Marseille;马赛;馬賽;88;Marsella;Marselha;마르세유;マルセイユ;Marseille;3;43.296;5.37
+87;Montpellier;Montpellier;蒙彼利埃;蒙彼利埃;90;Montpellier;Montpellier;몽플리에;モンペリエ;Montpellier;3;43.611;3.877
+88;Nantes;Nantes;南特;南特;102;Nantes;Nantes;낭트;ナント;Nantes;3;47.218;-1.554
+89;Rennes;Rennes;雷恩;雷恩;68;Rennes;Rennes;렌;レンヌ;Rennes;3;48.113;-1.676
+90;Strasbourg;Strasbourg;斯特拉斯堡;斯特拉斯堡;122;Estrasburgo;Estrasburgo;스트라스부르;ストラスブール;Straßburg;3;48.583;7.748
+91;Toulouse;Toulouse;图卢兹;圖盧茲;129;Toulouse;Toulouse;툴루즈;トゥールーズ;Toulouse;3;43.605;1.444
+92;Chiba;Chiba;千叶县;千葉縣;106;Chiba;Chiba;치바;千葉;Chiba;29;35.607;140.106
+93;Fukuoka;Fukuoka;福冈;福岡;42;Fukuoka;Fukuoka;후쿠오카;福岡;Fukuoka;29;33.59;130.402
+94;Hiroshima;Hiroshima;广岛;廣島;49;Hiroshima;Hiroshima;히로시마;広島;Hiroshima;29;34.385;132.455
+95;Kitakyushu;Kitakyushu;北九州;北九州;15;Kitakyushu;Kitakyushu;키타 큐슈;北九州;Kitakyushu;29;33.883;130.875
+96;Kobe;Kobe;神户市;神戶市;117;Kobe;Kobe;고베;神戸;Kobe;29;34.69;135.196
+97;Kyoto;Kyoto;京都;京都;62;Kyoto;Kyoto;교토;京;Kyoto;29;35.012;135.768
+98;Nagoya;Nagoya;名古屋;名古屋;94;Nagoya;Nagoia;나고야;名古屋;Nagoya;29;35.181;136.906
+99;Naha;Naha;那霸;那霸;99;Naha;Naha;나하;ナーハ;Naha;29;26.212;127.679
+100;Osaka;Osaka;大阪;大阪;31;Osaka;Osaka;오사카;大阪;Osaka;29;34.694;135.502
+101;Sapporo;Sapporo;札幌;札幌;146;Sapporo;Sapporo;삿포로;札幌;Sapporo;29;43.062;141.354
+102;Sendai;Sendai;仙台;仙台;136;Sendai;Sendai;센다이;仙台;Sendai;29;38.268;140.869
+103;Tokyo;Tokyo;东京;東京;36;Tokio;Tóquio;도쿄;東京;Tokyo;29;35.689;139.692
+104;Yokohama;Yokohama;横滨;橫濱;56;Yokohama;Yokohama;요코하마;横浜;Yokohama;29;35.444;139.638
+105;Adelaide;Adélaïde;阿德莱德;阿德萊德;2;Adelaida;Adelaide;애들레이드;アデレード;Adelaide;30;-34.929;138.6
+106;Brisbane;Brisbane;布里斯班;布里斯班;25;Brisbane;Brisbane;브리즈번;ブリズベン;Brisbane;30;-27.471;153.024
+107;Melbourne;Melbourne;墨尔本;墨爾本;95;Melbourne;Melbourne;멜버른;メルボルン;Melbourne;30;-37.814;144.963
+108;Perth;Perth;珀斯;珀斯;105;Perth;Perth;퍼스;パース;Perth;30;-31.933;115.862
+109;Sydney;Sydney;悉尼;悉尼;138;Sídney;Sydney;시드니;シドニー;Sydney;30;-33.867;151.207
+110;Brasília;Brasilia;巴西利亚;巴西利亞;13;Brasilia;Brasília;브라질리아;ブラジリア;Brasília;31;-15.792;-47.898
+111;Recife;Recife;累西腓;累西腓;69;Recife;Recife;헤시피;レシフェ;Recife;31;-8.054;-34.881
+112;Rio de Janeiro;Rio de Janeiro;里约热内卢;里約熱內盧;75;Río de Janeiro;Rio de Janeiro;리우데자네이루;リオデジャネイロ;Rio de Janeiro;31;-22.904;-43.21
+113;São Paulo;Sao Paulo;聖保羅;聖保羅;112;São Paulo;São Paulo;상파울루;サンパウロ;Sao Paulo;31;-23.549;-46.639
+114;Athens;Athènes;雅典;雅典;142;Atenas;Atenas;아테네;アテネ;Athen;32;37.984;23.729
+115;Mexico City;Mexico;墨西哥城;墨西哥城;97;México, D. F.;Cidade do México;멕시코시티;メキシコシティ;Mexiko-Stadt;33;19.433;-99.133
+116;Monterrey;Monterrey;蒙特雷;蒙特雷;91;Monterrey;Monterrei;몬테레이;モンテレイ;Monterrey;33;25.673;-100.309
+117;Vancouver;Vancouver;溫哥華;溫哥華;132;Vancouver;Vancouver;밴쿠버;バンクーバー;Vancouver;2;49.261;-123.114
+118;Geneva;Genève;日内瓦;日內瓦;107;Ginebra;Genebra;제네바;ジュネーヴ;Genf;34;46.198;6.142
+119;Lausanne;Lausanne;洛桑;洛桑;79;Lausana;Lausana;로잔;ローザンヌ;Lausanne;34;46.52;6.634
+120;Singapore;Singapour;新加坡;新加坡;139;Singapur;Singapura;싱가포르;シンガポール;Singapur;35;1.352;103.819
+121;Kuala Lumpur;Kuala Lumpur;吉隆坡;吉隆坡;61;Kuala Lumpur;Kuala Lumpur;쿠알라룸푸르;クアラルンプール;Kuala Lumpur;36;3.139;101.687
+122;Essen;Essen;埃森;埃森;4;Essen;Essen;에센;エッセン;Essen;9;51.456;7.012
+123;Düsseldorf;Düsseldorf;杜塞尔多夫;杜塞爾多夫;39;Düsseldorf;Düsseldorf;뒤셀도르프;デュッセルドルフ;Düsseldorf;9;51.228;6.773
+124;Cologne;Cologne;科隆;科隆;66;Colonia;Colônia;쾰른;ケルン;Köln;9;50.938;6.96
+125;Buenos Aires;Buenos Aires;布宜诺斯艾利斯;布宜諾斯艾利斯;27;Buenos Aires;Buenos Aires;부에노스아이레스;ブエノスアイレス;Buenos Aires;37;-34.604;-58.382
+126;Manila;Manille;马尼拉;馬尼拉;87;Manila;Manila;마닐라;マニラ;Manila;38;14.6;120.984
+127;Santiago;Santiago;圣地亚哥;聖地亞哥;114;Santiago;Santiago;산티아고;サンティアゴ;Santiago;39;-33.469;-70.642
+128;Valparaíso;Valparaíso;瓦尔帕莱索;瓦爾帕萊索;130;Valparaíso;Valparaíso;발파라이소;バルパライソ;Valparaíso;39;-33.046;-71.62
+129;Medellín;Medellín;麦德林;麥德林;84;Medellín;Medellín;메데인;メデジン;Medellín;40;6.236;-75.575
+130;Santo Domingo;Saint-Domingue;聖多明哥;聖多明哥;116;Santo Domingo;Santo Domingo;산토도밍고;サントドミンゴ;Santo Domingo;41;18.5;-69.983
+131;Lima;Lima;利马;利馬;72;Lima;Lima;리마;リマ;Lima;42;-12.04;-77.062
+132;Caracas;Caracas;卡拉卡斯;卡拉卡斯;64;Caracas;Caracas;카라카스;カラカス;Caracas;43;10.5;-66.951
+133;Auckland;Auckland;奥克兰;奧克蘭;8;Auckland;Auckland;오클랜드;オークランド;Auckland;44;-36.848;174.763
+134;Wellington;Wellington;惠灵顿;惠靈頓;59;Wellington;Wellington;웰링턴;ウェリントン;Wellington;44;-41.286;174.776
+135;Antwerp;Anvers;安特卫普;安特衛普;7;Amberes;Antuérpia;안트베르펜;アントウェルペン;Antwerpen;5;51.219;4.403
+136;Liverpool;Liverpool;利物浦;利物浦;74;Liverpool;Liverpool;리버풀;リヴァプール;Liverpool;4;53.408;-2.992
+137;Saint Petersburg;Saint-Pétersbourg;圣彼得堡;聖彼得堡;113;San Petersburgo;São Petersburgo;상트페테르부르크;サンクトペテルブルク;Sankt Petersburg;7;59.934;30.335
+138;Newcastle upon Tyne;Newcastle upon Tyne;泰恩河畔纽卡斯尔;泰恩河畔紐卡斯爾;126;Newcastle upon Tyne;Newcastle upon Tyne;뉴캐슬어폰타인;ニューカッスル・アポン・タイン;Newcastle upon Tyne;4;54.978;-1.618
+139;Manchester;Manchester;曼彻斯特;曼徹斯特;85;Mánchester;Manchester;맨체스터;マンチェスター;Manchester;4;53.479;-2.248
+140;Naples;Naples;那不勒斯;那不勒斯;100;Nápoles;Nápoles;나폴리;ナポリ;Neapel;14;40.839;14.253
+141;New Delhi;New Delhi;新德里;新德里;137;Nueva Delhi;Nova Délhi;뉴 델리;ニューデリー;Neu-Delhi;45;28.614;77.209
+142;Kolkata;Kolkata;加尔各答;加爾各答;60;Kolkata;Kolkata;콜카타;コルカタ;Kolkata;45;22.573;88.364
+143;Guadalajara;Guadalajara;瓜达拉哈拉;瓜達拉哈拉;48;Guadalajara;Guadalajara;과달라하라;グアダラハラ;Guadalajara;33;20.66;-103.35
+144;Fortaleza;Fortaleza;福塔雷萨;福塔雷薩;44;Fortaleza;Fortaleza;포르탈레자;フォルタレザ;Fortaleza;31;-3.732;-38.527
+145;Dubai;Dubai;迪拜;迪拜;35;Dubái;Dubai;두바이;ドバイ;Dubai;46;25.205;55.271
+146;Hangzhou;Hangzhou;杭州;杭州;53;Hangzhou;Hangzhou;항주;杭州;Hangzhou;1;30.274;120.155
+147;Zurich;Zurich;苏黎世;蘇黎世;124;Zurich;Zurique;취리히;チューリッヒ;Zürich;34;47.369;8.539

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MetroMaps</string>
+    <string name="mess_add_bookmark_success">%1$s 당신의 즐겨찾기 추가!</string>
+    <string name="mess_remove_bookmark_success">%1$s 당신의 즐겨찾기 삭제!</string>
+    
+     <string name="mess_search_hint">도시 이름 입력</string>
+    <string name="mess_search_not_found">도시를 찾을 수 없습니다!</string>        
+    <string name="btn_content_desc">검색</string>        
+    
+    <string name="country_order">country_order_ko</string>
+    <string name="country_name">country_name_ko</string>
+    <string name="town_name">name_ko</string>
+    <string name="town_order">name_ko</string>
+    
+     <string name="menu_share">공유</string>
+     <string name="error">에러</string>
+     <string name="no_sd_card">지도 공유 중 에러 발생.</string>
+      
+     <string name="share_body">%1$s 를 통해 지하철맵 공유</string>
+     <string name="share_via">를 통해 공유</string>
+     
+     <string name="rate">속도 %1$s</string>
+     <string name="rate_message">당신이 %1$s을 사용하여 즐길 수 있다면, 그것은 속도로 순간을하시기 바랍니다. 귀하의 지원을 주셔서 감사합니다!</string>
+     <string name="rate_later">나중에 알림</string>
+     <string name="rate_no">아니, 감사합니다</string>
+     
+     <string name="menu_more_app">더 많은 애플 리케이션!</string>
+</resources>

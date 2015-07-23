@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    
+    
+           <item android:id="@+id/menu_pro"
+          android:title="@string/menu_pro"
+          android:showAsAction="never"/>
+           
+        <item android:id="@+id/menu_website"
+          android:title="@string/menu_website"
+          android:showAsAction="never"/>
+    
+              <item android:id="@+id/menu_more"
+          android:title="@string/menu_more_app"
+          android:showAsAction="never"/>
+              
+                  <item android:id="@+id/menu_get_maps"
+          android:title="@string/menu_get_maps"
+          android:showAsAction="never"/>
+    
+</menu>

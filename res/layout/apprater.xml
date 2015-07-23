@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+    
+    <TextView android:id="@+id/rate_text" 
+        android:layout_width="fill_parent"
+        android:layout_height="0dip" 
+        android:paddingLeft="4dip"
+        android:paddingRight="4dip"
+        android:paddingBottom="10dip"
+        android:ellipsize="none"
+      android:scrollHorizontally="false"
+      android:maxLines="3"
+      android:layout_weight="1"
+        />
+    
+    <Button android:id="@+id/btn_rate_yes"
+        
+         android:layout_width="fill_parent"
+        android:layout_height="wrap_content" 
+        
+        />
+    <Button android:id="@+id/btn_rate_later"
+           android:layout_width="fill_parent"
+        android:layout_height="wrap_content" 
+        
+        />
+    <Button android:id="@+id/btn_rate_no"
+        
+           android:layout_width="fill_parent"
+        android:layout_height="wrap_content" 
+        
+        />
+    
+    
+
+</LinearLayout>

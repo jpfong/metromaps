@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MetroMaps</string>
+    <string name="mess_add_bookmark_success">%1$sお気に入りに追加されました！</string>
+    <string name="mess_remove_bookmark_success">%1$sお気に入りから消されました！</string>
+    
+    <string name="mess_search_hint">街の名前を入力して下さい</string>
+    <string name="mess_search_not_found">街が見つかりませんでした！</string>   
+    <string name="btn_content_desc">検索</string>     
+    
+    <string name="country_order">country_order_jp</string>
+    <string name="country_name">country_name_jp</string>
+    <string name="town_name">name_jp</string>
+    <string name="town_order">name_jp</string>
+    
+     <string name="menu_share">共有</string>
+     <string name="error">エラー</string>
+     <string name="no_sd_card">マップの共有中にエラーが発生しました</string>
+     
+     <string name="share_body">地下鉄のマップが%1$sを使って共有されました</string>
+     <string name="share_via">これを使って共有：</string>
+     
+     <string name="rate">%1$sを評価する</string>
+     <string name="rate_message">%1$sを気に入ったら、評価して下さい。お時間ありがとうございます！</string>
+     <string name="rate_later">後で知らせる</string>
+     <string name="rate_no">結構です</string>
+     
+      <string name="menu_more_app">より多くのアプリケーション！</string>
+</resources>

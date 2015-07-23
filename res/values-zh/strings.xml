@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MetroMaps</string>
+    <string name="mess_add_bookmark_success">%1$s加入到了您的最爱！</string>
+    <string name="mess_remove_bookmark_success">%1$s从您的最爱删除了！</string>    
+    
+    <string name="mess_search_hint">输入城市名字</string>
+    <string name="mess_search_not_found">找不到此城市!</string>   
+    <string name="btn_content_desc">搜索</string>     
+    
+    <string name="country_order">country_order_zh</string>
+    <string name="country_name">country_name_zh</string>
+    <string name="town_name">name_zh</string>
+    <string name="town_order">zh_order</string>
+    
+     <string name="menu_share">共享</string>
+     <string name="error">错误</string>
+     <string name="no_sd_card">地铁地图共享的过程中出现错误。</string>
+     
+     <string name="share_body">地铁地图与%1$s共享</string>
+     <string name="share_via">共享方式</string>
+     
+     <string name="rate">点评%1$s</string>
+     <string name="rate_message">如果您喜欢使用 %1$s，请花点时间点评它。感谢您的支持！</string>
+     <string name="rate_later">稍后提醒我</string>
+     <string name="rate_no">不用了，谢谢</string>
+     
+     <string name="menu_more_app">更多的应用程序</string>
+     
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MetroMaps</string>
+    <string name="mess_add_bookmark_success">%1$s added to your favorites!</string>
+    <string name="mess_remove_bookmark_success">%1$s removed from your favorites!</string>
+    
+    <string name="mess_search_hint">Type a town\'s name</string>
+    <string name="mess_search_not_found">Town not found!</string>   
+    <string name="btn_content_desc">Search</string>     
+    
+    <string name="country_order">country_order</string>
+    <string name="country_name">country_name</string>
+    <string name="town_name">name</string>
+    <string name="town_order">name</string>
+    
+    <string name="menu_website">Website</string>
+     <string name="menu_share">Share</string>
+     <string name="error">Error</string>
+     <string name="no_sd_card">Error during map sharing.</string>
+     
+     <string name="share_body">Subway map shared with %1$s</string>
+     <string name="share_via">Share via</string>
+     
+     <string name="rate">Rate %1$s</string>
+     <string name="rate_message">If you enjoy using %1$s, please take a moment to rate it. Thanks for your support!</string>
+     <string name="rate_later">Remind me later</string>
+     <string name="rate_no">No, thanks</string>
+     
+     <string name="menu_more_app">More apps!</string>
+     <string name="menu_pro">Get Pro Version!</string>
+     <string name="menu_get_maps">Get ALL maps!</string>
+     
+</resources>
